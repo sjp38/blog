@@ -1,4 +1,4 @@
-title = "Logs"
+title = "A Blog"
 languageCode = "en-us"
 baseurl = "https://sjp38.github.io/"
 paginate = "10"
@@ -12,8 +12,8 @@ theme = "mainroad"
 
 
 [Params]
-    subtitle = "Collection of miscellaneous logs"
-    description = "Personal blog to collect miscellaneous logs"
+    subtitle = "A blog for miscellaneous things"
+    description = "This is a blog of SeongJae Park for miscellaneous things."
     opengraph = true
     leftsidebar = false
     authorbox = true
