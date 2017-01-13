@@ -14,7 +14,7 @@ menu = "main"
 +++
 
 By DRY principle[0], it would be better to refer to the links below.  Use the
-links below, Luke! ;)
+links, Luke! ;)
 
 
 Emails
