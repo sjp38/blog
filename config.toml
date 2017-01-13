@@ -1,3 +1,27 @@
-title = "My New Hugo Site"
+title = "Logs"
 languageCode = "en-us"
-baseurl = "http://example.org/"
+baseurl = "https://sjp38.github.io/"
+paginate = "10"
+theme = "mainroad"
+
+
+[Author]
+    name = "SeongJae Park"
+    bio = "A f/oss hacker"
+    avatar = "img/avatar.png"
+
+
+[Params]
+    subtitle = "Collection of miscellaneous logs"
+    description = "Personal blog to collect miscellaneous logs"
+    opengraph = true
+    leftsidebar = false
+    authorbox = true
+    post_navigation = true
+
+
+[Params.widgets]
+    search = true
+    recent_articles = true
+    categories = true
+    tags = true
