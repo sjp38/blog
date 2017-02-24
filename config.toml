@@ -40,11 +40,6 @@ theme = "beautifulhugo"
     weight = 1
 
 [[menu.main]]
-    url = "/index.xml"
-    name = "RSS"
-    weight = 1
-
-[[menu.main]]
     url = "/categories"
     name = "Categories"
     weight = 1
