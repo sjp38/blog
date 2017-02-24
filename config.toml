@@ -25,3 +25,13 @@ theme = "mainroad"
     recent_articles = true
     categories = true
     tags = true
+
+[[menu.main]]
+    url = "/categories/projects"
+    name = "Projects"
+    weight = 1
+
+[[menu.main]]
+    url = "/blog"
+    name = "Blog"
+    weight = 1
