@@ -9,6 +9,9 @@ theme = "beautifulhugo"
     name = "SeongJae Park"
     bio = "A f/oss hacker"
     avatar = "img/avatar.png"
+    email = "sj38.park@gmail.com"
+    github = "sjp38"
+    linkedin = "seongjae-park-1a5b9954"
 
 
 [Params]
