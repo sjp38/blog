@@ -35,3 +35,8 @@ theme = "mainroad"
     url = "/post"
     name = "Blog"
     weight = 1
+
+[[menu.main]]
+    url = "/index.xml"
+    name = "RSS"
+    weight = 1
