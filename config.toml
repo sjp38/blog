@@ -15,7 +15,7 @@ theme = "beautifulhugo"
 
 
 [Params]
-    subtitle = "A blog for miscellaneous things"
+    subtitle = "A blog for miscellaneous hacks"
     description = "This is a blog of SeongJae Park for miscellaneous things."
     opengraph = true
     leftsidebar = false
