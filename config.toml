@@ -2,7 +2,7 @@ title = "A Blog"
 languageCode = "en-us"
 baseurl = "https://sjp38.github.io/"
 paginate = "10"
-theme = "mainroad"
+theme = "beautifulhugo"
 
 
 [Author]
