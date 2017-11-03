@@ -1,7 +1,7 @@
 title = "Happy Hacking"
 languageCode = "en-us"
 baseurl = "https://sjp38.github.io/"
-paginate = "3"
+paginate = "5"
 theme = "beautifulhugo"
 googleAnalytics = "UA-30621335-1"
 
@@ -16,12 +16,13 @@ googleAnalytics = "UA-30621335-1"
 
 
 [Params]
-    subtitle = "A blog for miscellaneous hacks"
+    subtitle = "Let the hacking begin"
     description = "This is a blog of SeongJae Park for miscellaneous things."
     opengraph = true
     leftsidebar = false
     authorbox = true
     post_navigation = true
+    logo = "img/tux.png"
 
 
 [Params.widgets]
